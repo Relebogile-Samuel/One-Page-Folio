@@ -750,6 +750,10 @@ section,
   .hero p {
     font-size: 20px;
   }
+
+  .hero img {
+    object-position: center 60%;
+  }
 }
 
 /*--------------------------------------------------------------
